@@ -69,7 +69,7 @@ const handleStop = (e)=>{
       <div className="tick">
         <h2>{isTimerRunning ?(
             <Typewriter
-              words={["Timer is Going..."]}
+              words={["Timer is Going"]}
               loop={false}
               cursor
               cursorStyle="_"
